@@ -1,3 +1,6 @@
+This Application has been developed using ReactJS and Redux. You can find the deployed application in the following link.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
